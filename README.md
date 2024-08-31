@@ -1,4 +1,4 @@
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Me gusta desarrollar páginas web y aplicaciones con soluciones innovadoras y una estética impecable.\
 🎓 &nbsp;Actualmente estoy estudiando una carrera de Ingenieria de Informática en la Universidad Internacional de Valencia.\
