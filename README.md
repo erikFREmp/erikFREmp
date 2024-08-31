@@ -1,7 +1,7 @@
 
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Contacto</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/erik-john-flores-roque/" target="blank"><img align="center"
