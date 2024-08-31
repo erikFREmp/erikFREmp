@@ -5,7 +5,7 @@
 🌱 &nbsp;Tengo experiencia de desarrollo con Angular y Spring Boot y a usar la metodología Ágile y SCRUM dentro de un sector empresarial.\
 ✍️ &nbsp;En mi tiempo libre me dedico no solo a programar sino también a llevar una vida sana y equilibrada con el gimnasio.\
 ✉️ &nbsp;Ante cualquier cuestión o si le interesa conocer más sobre este es el correo por el cual mi respuesta será lo antes posible: erikjohnprivate@gmail.com\
-📄 &nbsp;Mi curriculum explicando de forma más detallada mis conocimientos y experiencias --> https://drive.google.com/file/d/1cMqTN7SU4z9dIVuUQGcDrIfC8MbP5oIt/view?usp=sharing
+📄 &nbsp;Mi curriculum explicando de forma más detallada mis conocimientos y experiencias --> [Résumé](https://drive.google.com/file/d/1cMqTN7SU4z9dIVuUQGcDrIfC8MbP5oIt/view?usp=sharing)
 <div>
   <samp>
     <h2 align="center">Contacto</h2>
