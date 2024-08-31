@@ -6,6 +6,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,angular,bootstrap,css,html,java,js,linux,mysql,php,postman,ts,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,angular,git,bootstrap,mysql,php,postman,linux,java,androidstudio,vite,vercel" />
   </a>
 </p>
