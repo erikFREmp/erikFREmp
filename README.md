@@ -2,7 +2,7 @@
 
 💡 &nbsp;Soy un apasionado del desarrollo web y de aplicaciones, enfocado en crear soluciones innovadoras con una estética impecable..\
 🎓 &nbsp;Actualmente, estoy cursando la carrera de Ingeniería Informática en la Universidad Internacional de Valencia.\
-🌱 &nbsp;Tengo experiencia de desarrollo con Angular y Spring Boot y a usar la metodología Ágile y SCRUM dentro de un sector empresarial.\
+🌱 &nbsp;Cuento con experiencia en desarrollo utilizando Angular y Spring Boot, aplicando metodologías Ágiles y SCRUM en entornos empresariales para asegurar la entrega eficiente y de alta calidad de los proyectos.\
 💪 &nbsp;En mi tiempo libre, no solo disfruto programando, sino que también llevo una vida equilibrada dedicando tiempo al gimnasio y cuidando mi bienestar físico y mental.\
 ✉️ &nbsp;Estoy a su disposición para cualquier consulta o interés en conocer más sobre mi perfil. Puede contactarme a través del correo: erikjohnprivate@gmail.com, donde le responderé con la mayor brevedad posible.\
 📄 &nbsp;Para más detalles sobre mis conocimientos y experiencias, puede consultar mi currículum completo aquí --> [CV](https://drive.google.com/file/d/1cMqTN7SU4z9dIVuUQGcDrIfC8MbP5oIt/view?usp=sharing)
