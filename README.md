@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Soy un apasionado del desarrollo web y de aplicaciones, enfocado en crear soluciones innovadoras con una estética impecable..\
+💡 &nbsp;Soy un apasionado del desarrollo web y de aplicaciones, enfocado en crear soluciones innovadoras con una estética minusiosa.\
 🎓 &nbsp;Actualmente, estoy cursando la carrera de Ingeniería Informática en la Universidad Internacional de Valencia.\
 🌱 &nbsp;Cuento con experiencia en desarrollo utilizando Angular y Spring Boot, aplicando metodologías Ágiles y SCRUM en entornos empresariales para asegurar la entrega eficiente y de alta calidad de los proyectos.\
 💪 &nbsp;En mi tiempo libre, no solo disfruto programando, sino que también llevo una vida equilibrada dedicando tiempo al gimnasio y cuidando mi bienestar físico y mental.\
