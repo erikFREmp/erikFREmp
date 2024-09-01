@@ -27,7 +27,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <p>
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,angular,git,bootstrap,mysql,php,postman,linux,java,androidstudio,vite" />
-  </a>
+  </p>
 </p>
