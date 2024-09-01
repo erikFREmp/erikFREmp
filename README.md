@@ -1,11 +1,11 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Me gusta desarrollar páginas web y aplicaciones con soluciones innovadoras y una estética impecable.\
-🎓 &nbsp;Actualmente estoy estudiando una carrera de Ingenieria de Informática en la Universidad Internacional de Valencia.\
+💡 &nbsp;Soy un apasionado del desarrollo web y de aplicaciones, enfocado en crear soluciones innovadoras con una estética impecable..\
+🎓 &nbsp;Actualmente, estoy cursando la carrera de Ingeniería Informática en la Universidad Internacional de Valencia.\
 🌱 &nbsp;Tengo experiencia de desarrollo con Angular y Spring Boot y a usar la metodología Ágile y SCRUM dentro de un sector empresarial.\
-✍️ &nbsp;En mi tiempo libre me dedico no solo a programar sino también a llevar una vida sana y equilibrada con el gimnasio.\
-✉️ &nbsp;Ante cualquier cuestión o si le interesa conocer más sobre este es el correo por el cual mi respuesta será lo antes posible: erikjohnprivate@gmail.com\
-📄 &nbsp;Mi curriculum explicando de forma más detallada mis conocimientos y experiencias --> [CV](https://drive.google.com/file/d/1cMqTN7SU4z9dIVuUQGcDrIfC8MbP5oIt/view?usp=sharing)
+💪 &nbsp;En mi tiempo libre, no solo disfruto programando, sino que también llevo una vida equilibrada dedicando tiempo al gimnasio y cuidando mi bienestar físico y mental.\
+✉️ &nbsp;Estoy a su disposición para cualquier consulta o interés en conocer más sobre mi perfil. Puede contactarme a través del correo: erikjohnprivate@gmail.com, donde le responderé con la mayor brevedad posible.\
+📄 &nbsp;Para más detalles sobre mis conocimientos y experiencias, puede consultar mi currículum completo aquí --> [CV](https://drive.google.com/file/d/1cMqTN7SU4z9dIVuUQGcDrIfC8MbP5oIt/view?usp=sharing)
 <div>
   <samp>
     <h2 align="center">Contacto</h2>
